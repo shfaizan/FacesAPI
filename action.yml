@@ -10,7 +10,7 @@ inputs:
     default: 'YOUR_PROJECT_KEY'
     required: true
   ld-access-token:
-    description: 'Token with write access to LaunchDarkly project'
+    description: 'Token with write access to facesAPI project'
     required: true
   github-token:
     description: 'Token to access your GitHub repository. This is only needed if the code has not yet been checkout out in a prior step.'
